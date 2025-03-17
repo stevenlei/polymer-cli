@@ -34,3 +34,6 @@ Thumbs.db
 .env
 .env.local
 config.local.yaml
+
+# GoReleaser output
+dist/
